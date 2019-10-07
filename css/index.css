@@ -419,4 +419,8 @@ ul{
     h3{
         font-size: 0.6rem;
     }
+
+    .padded{
+        padding: 0;
+    }
 }
