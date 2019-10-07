@@ -334,6 +334,9 @@ ul{
     .toolbar-displace{
         height: 14vh;
     }
+    .bigbutton{
+        top: 4vh;
+    }
 }
 
 /* Mobile media query */
